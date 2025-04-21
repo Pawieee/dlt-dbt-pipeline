@@ -8,21 +8,21 @@ This project demonstrates a simple ELT (Extract, Load, Transform) pipeline that:
 ---
 
 ## 📁 Project Structure
-├── dlt_pipeline/ 
-│ ├── extract
-│ │ ├── .dlt
-│ │ ├── google_sheets
-│ │ ├── pipeline.py
-│ │ ├── requirements.txt
-│ ├── transform
-│ │ ├── dbt_project/ 
-│ │ ├── dbt_project.yml 
-│ │ ├── profiles.yml 
-│ │ ├──models
-│ │ ├── transformed_model.sql 
-│ │ ├──seeds
-├── docker-compose.yml 
-└── README.md
+├── dlt_pipeline/   
+│ ├── extract  
+│ │ ├── .dlt  
+│ │ ├── google_sheets  
+│ │ ├── pipeline.py  
+│ │ ├── requirements.txt  
+│ ├── transform  
+│ │ ├── dbt_project/  
+│ │ ├── dbt_project.yml  
+│ │ ├── profiles.yml  
+│ │ ├──models  
+│ │ ├── transformed_model.sql  
+│ │ ├──seeds  
+├── docker-compose.yml  
+└── README.md  
 
 
 ---
