@@ -1,0 +1,2 @@
+google-api-python-client
+dlt[postgres]>=0.5.1

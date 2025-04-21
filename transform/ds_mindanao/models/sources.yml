@@ -1,0 +1,34 @@
+sources:
+  - name: de_projects
+    description: "Raw data from source"
+    database: "ds_mindanao"
+    schema: "ds_mindanao_eval"
+    tables:
+      - name: responses
+        columns:
+          - name: university_email
+          - name: fname
+          - name: lname
+          - name: year_level
+          - name: program
+          - name: a1
+          - name: a2
+          - name: a3
+          - name: a4
+          - name: b1
+          - name: b2
+          - name: b3
+          - name: c1
+          - name: c2
+          - name: c3
+          - name: d1
+          - name: d2
+          - name: d3
+          - name: d4
+          - name: d5
+          - name: e1
+          - name: e2
+          - name: suggestions
+          - name: benefits_problems
+          - name: comments
+
